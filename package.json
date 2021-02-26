@@ -1,0 +1,27 @@
+{
+  "name": "SodaDeveloper",
+  "version": "1.0.0",
+  "description": "To demo the power of soda",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishant_kaushik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "nodemon": "^2.0.4",
+    "oracledb": "^4.2.0",
+    "path": "^0.12.7"
+  }
+}
